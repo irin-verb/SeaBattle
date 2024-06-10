@@ -6,7 +6,7 @@
 >
 > Course work at the university. Game "Sea Battle"
 
-**Предмет (Subject)** :  Алгоритмические языки и программирование / Algorithmic languages ​​and programming
+**Предмет / Subject** :   Алгоритмические языки и программирование / Algorithmic languages ​​and programming
 
 **Курс / Course** : 1ий курс / 1st course
 
